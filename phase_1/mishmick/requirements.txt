@@ -1,0 +1,8 @@
+opencv-python
+scipy
+scikit-image
+enum
+tqdm
+console-menu
+pandas
+scikit-learn
